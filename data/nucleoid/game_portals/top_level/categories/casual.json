@@ -43,7 +43,7 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:bingo"
+      "portal": "nucleoid:bingo/root"
     }
   ]
 }
