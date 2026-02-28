@@ -1,0 +1,8 @@
+{
+  "type": "nucleoid_extras:server_change",
+  "icon": "minecraft:grass_block",
+  "server_id": "survival",
+  "name": {
+    "translate": "server.cobbled.survival"
+  }
+}

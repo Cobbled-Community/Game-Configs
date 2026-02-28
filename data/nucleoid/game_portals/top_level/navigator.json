@@ -21,13 +21,9 @@
         "translate": "text.nucleoid_extras.ui.action.party_games"
       }
     },
-    "3:3": {
+    "4:3": {
       "type": "plasmid:portal",
-      "portal": "nucleoid:top_level/categories/tabletop"
-    },
-    "5:3": {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:top_level/categories/miscellaneous"
+      "portal": "nucleoid:server/survival"
     }
   }
 }

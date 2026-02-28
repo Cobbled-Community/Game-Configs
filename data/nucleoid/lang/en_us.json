@@ -1,7 +1,5 @@
 {
-  "server.nucleoid.dev": "Update Development Server",
-  "server.nucleoid.play": "Play Server",
-  "server.nucleoid.build": "Build Server",
+  "server.cobbled.survival": "Survival Server",
 
   "nucleoid.navigator": "Navigator",
   "nucleoid.navigator.category.casual": "Casual",
